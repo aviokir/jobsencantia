@@ -18,7 +18,7 @@ export default function Navbar() {
         </Link>
 
         <a
-          href="https://encantia.online"
+          href="https://encantia.xyz"
           className="text-slate-300 hover:text-white transition"
         >
           Volver a Encantia
@@ -27,3 +27,4 @@ export default function Navbar() {
     </header>
   );
 }
+
